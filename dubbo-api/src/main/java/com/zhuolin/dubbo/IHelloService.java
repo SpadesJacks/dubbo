@@ -1,4 +1,4 @@
-package com.nyvi.dubbo;
+package com.zhuolin.dubbo;
 
 public interface IHelloService {
 
