@@ -5,10 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import com.alibaba.dubbo.spring.boot.annotation.EnableDubboConfiguration;
 
-/**
- * 消费者
- * @author czk
- */
+
 @SpringBootApplication
 @EnableDubboConfiguration
 public class DubboConsumerLauncher {
